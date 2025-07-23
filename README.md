@@ -25,8 +25,8 @@ A desktop application that displays weather conditions for a given location. It 
 
 - 🔍 Search for real-time weather conditions of any city
 - 💡 Get crop recommendations based on weather data
-- 🧭 Suggests local venues based on forecast
-- 🧳 Suggests best places to visit in that weather
+- 🧭 Suggests local tourist spots based on forecast
+- 🧳 Suggests best stadiums to visit in that weather
 - 📌 Bookmark frequently searched cities for quick weather checks
 - ☁️ **Powered by AccuWeather API** for accurate and real-time weather forecasting
 
