@@ -4,7 +4,7 @@ A desktop application that displays weather conditions for a given location. It 
 
 - 🌾 **Crop suggestions** based on current weather
 - 🏞️ **Tourist Venues recommendations** tailored to the city and climate
-- 📍 **Sports Venue suggestions** appropriate for the weather,sport,accomodation
+- 📍 **Sports Stadiums  suggestions** appropriate for the weather,sport,accomodation
 - 📌 **Bookmarking feature** to save favorite cities for quick access
 
 ---
