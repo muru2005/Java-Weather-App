@@ -3,8 +3,8 @@
 A desktop application that displays weather conditions for a given location. It also includes smart features like:
 
 - 🌾 **Crop suggestions** based on current weather
-- 🏞️ **Travel recommendations** tailored to the climate
-- 📍 **Venue suggestions** appropriate for the weather
+- 🏞️ **Tourist Venues recommendations** tailored to the city and climate
+- 📍 **Sports Venue suggestions** appropriate for the weather,sport,accomodation
 - 📌 **Bookmarking feature** to save favorite cities for quick access
 
 ---
